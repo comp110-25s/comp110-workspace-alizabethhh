@@ -1,0 +1,2 @@
+def guess_secret(word: str, secret: str, idx: int = 0 ) -> bool:
+    
